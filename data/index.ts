@@ -84,7 +84,7 @@ export const projects = [
     des: "Make the job easy and enjoyable to manage customer check-in/out and informations",
     img: "/project1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://github.com/Harun11100/Hotel-manager",
+    link: "https://hotel-manager-beta.vercel.app/",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "Simplify hotel booking process and make them faster and make payment in a secure way using cripto currency",
     img: "/project2.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://github.com/Harun11100/Online-hotel-booking",
+    link: "https://online-hotel-booking-three.vercel.app/",
   },
   {
     id: 4,
