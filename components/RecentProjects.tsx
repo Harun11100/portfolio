@@ -19,11 +19,11 @@ const RecentProjects = () => {
           <div key={id} className='sm:h-[41rem] h-[32rem] lg:min-h-[32.5rem] flex items-center justify-center sm:w-[570px] w-[80vw]'>
             <PinContainer title={link} href={link}>
               <div className='relative flex items-center justify-center sm:w-[570px] sm:h-[40vh] w-[80vw] h-[30vh] overflow-hidden lg:h-[30vh] mb-10'>
-                <div className='relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#3947b5]' />
+                <div className='relative w-full h-full overflow-hidden lg:rounded-2xl bg-[#3947b5]' />
                 <img 
                   src={img}
                   alt={title}
-                  className='z-10 absolute bottom-0 rounded-2xl h-full w-full'
+                  className='z-10 absolute bottom-0 lg:rounded-3xl   h-full w-full'
                 />
               </div>
               <h2 className='font-bold lg:text-2xl md:text-xl text-base line-clamp-1'>

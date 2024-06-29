@@ -106,7 +106,7 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote:"Its a really impressive that harun have created a modern hotel management system within a short time with fabulous features like payment system with cripto currency",
+    quote:"Its a really impressive that harun has created a modern hotel management system within a short time with fabulous features like payment system with cripto currency",
     name: "Zaurul haque",
     title: "Assistant Professor,MIU",
   },
