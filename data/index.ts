@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Pizza bazar",
-    des: "pizzer menu to order the best one and best price",
+    title: "Nike-clone",
+    des: "A clone of nike website with a stylish look",
     img: "/project4.png",
     iconLists: ["/re.svg", "/tail.svg"],
-    link: "Working on it",
+    link: "nike-clone-phi-jet.vercel.app",
   },
 ];
 
