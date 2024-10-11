@@ -100,7 +100,7 @@ export const projects = [
     des: "A clone of nike website with a stylish look",
     img: "/project4.png",
     iconLists: ["/re.svg", "/tail.svg"],
-    link: "nike-clone-phi-jet.vercel.app",
+    link: "https://nike-clone-phi-jet.vercel.app",
   },
 ];
 
