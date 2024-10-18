@@ -102,6 +102,15 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg"],
     link: "https://nike-clone-phi-jet.vercel.app",
   },
+  {
+    id: 5,
+    title: "Apple-website",
+    des: "A clone of apple website landing page with 3d animation and modeling",
+    img: "/project5.png",
+    iconLists: ["/re.svg", "/tail.svg",'/three.svg',],
+    link: "https://apple-website-3d.vercel.app",
+  },
+
 ];
 
 export const testimonials = [
